@@ -35,6 +35,6 @@
 - Git basic commands
 - What is a commit
 - How to add & push changes to a GitHub Repo
-- How to raise a pull request
+
 
 ### If you are interested to learn & explore more do checkout this: https://learngitbranching.js.org/
